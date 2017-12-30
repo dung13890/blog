@@ -1,18 +1,17 @@
-baseURL = "http://localhost"
+baseURL = "https://daoanhdung.com"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "while (!(successed = try()));"
 theme = "hugo-cactus-theme"
+summaryLength = 70
 
-googleAnalytics = ""
-# Disable comments by leaving disqusShortname empty
+googleAnalytics = "UA-72792053-1"
 disqusShortname = "spf13"
 
 [params]
-    name = "John Doe"
-    description = "Describe your website"
+    name = "Mr D"
+    description = "Blog for developer"
     bio = "Blogger & Programmer"
     # Enter optionally your twitter account
-    twitter = "Your Twitter account"
     enableRSS = true
 
     # Integrate Javascript files or stylesheets by adding the url to the external assets or by
@@ -29,10 +28,9 @@ disqusShortname = "spf13"
     # Pagination links
     olderPosts = ""
     newerPosts = ""
-    readMore = ""
     copyright = ""
     # Sharing options and author information in posts
-    aboutAuthor = "I'm an blogger."
+    aboutAuthor = "I'm a developer."
     tweet = ""
     share = ""
     # 404 page
@@ -40,13 +38,12 @@ disqusShortname = "spf13"
     subtitle404 = ""
 
     # Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
-    iconFont = "mono-social"
+    iconFont = "font-awesome"
     # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
-    socialIconStyle = "circle"
+    socialIconStyle = "square"
 
 # Add additional social link entries underneath
 [social]
-    twitter  = "https://www.twitter.com/"
-    facebook = "https://www.facebook.com/"
-    github   = "https://www.github.com/"
-    dribble  = "https://www.dribbble.com/"
+    twitter = "https://www.twitter.com/"
+    facebook = "https://www.facebook.com/dung13890"
+    github = "https://www.github.com/dung13890"
