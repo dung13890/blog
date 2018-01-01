@@ -1,5 +1,5 @@
 ---
-title: "Grpc Va Ung Dung No Trong Microservices"
+title: "Grpc và ứng dụng nó trong Microservices"
 date: 2017-12-27T05:40:41Z
 tags: ["microservice", "GRPC", "Golang"]
 description: "Hiện tại với API thì quá phổ biến cho các ứng dụng từ giao tiếp client

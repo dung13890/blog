@@ -1,5 +1,5 @@
 ---
-title: "Caddy Web Server Don Gian Va Hien Dai"
+title: "Caddy Web Server đơn giản và hiện đại"
 date: 2017-12-30T16:28:33Z
 tags: ["caddy", "web server", "Golang"]
 description: "Chắc hẳn các bạn không còn lạ lẫm gì với nginx. Một Proxy mạnh mẽ đã được phát triển và hình thành lên webserver. Tuy nhiên hôm nay mình sẽ giới thiệu 1 webserver khác có tên là Caddy. Nó cực kỳ đơn giản, và theo đánh giá của mình và các tài liệu tìm được thì có thể trong tương lai gần nó sẽ là đối thủ đáng gờm của nginx."
